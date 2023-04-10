@@ -1,7 +1,7 @@
 # Bootcamp project
 Node js rest API project for online learning website. A platform for teachers to share their courses with all information on the website for students.
 
-##Technology
+## Technology
 CRUD functionality -JWT- sending email with nodemailer- bcrypt JS- seeder- error responses- pagination and filtering
 
 ### How to use
