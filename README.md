@@ -8,5 +8,7 @@ CRUD functionality -JWT- sending email with nodemailer- bcrypt JS- seeder- error
 
 
 1-Run **npm install to install** all dependencies.
+
 2-Connect your MongoDB URI to this project.
+
 3-Run npm run dev to start the server.
